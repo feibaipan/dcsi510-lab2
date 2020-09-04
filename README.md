@@ -1,3 +1,3 @@
-# dcsi510-lab2
+# dsci510-lab2
 Feibai Pan
 feibaipa@usc.edu
